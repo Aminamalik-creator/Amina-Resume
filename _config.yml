@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Amina Malik
+description:Aspiring front-end developer focused on learning and building modern, responsive web applications.
+plugins:
+- jekyll-remote-theme
