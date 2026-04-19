@@ -1,7 +1,7 @@
 # AMINA Malik - Resume
 
-## 👩‍💼 About Me
-I am a passionate Front-End Developer focused on building responsive, user-friendly, and visually engaging web applications. I enjoy turning complex ideas into simple, elegant interfaces using modern technologies like HTML, CSS, JavaScript, and frameworks such as React. I’m always eager to learn new tools and improve performance, accessibility, and user experience.
+## 👩‍💼 Objective
+Passionate Front-End Developer focused on building responsive, user-friendly, and visually engaging web applications. I enjoy turning complex ideas into simple, elegant interfaces using modern technologies like HTML, CSS, JavaScript, and frameworks such as React. I’m always eager to learn new tools and improve performance, accessibility, and user experience.
 
 ---
 
@@ -52,15 +52,12 @@ Fatima Jinnah Women University
 **Certification of Robotics**  
 Udemy  
 - Gained knowledge of basic robotics concepts, sensors, and automation.
+**Certification of Freelancer**  
+Udemy  
+- Gained knowledge of online marketplaces, client communication, and project management.
 
 ---
 
 ## 🌐 Find Me Online
 - LinkedIn:  linkedin.com/in/amina-malikkk
  
----
-
-## 📄 Summary
-Detail-oriented Junior Web Developer skilled in creating clean and responsive web designs. Experienced in handling customer interactions in fast-paced environments. Focused on delivering quality work and enhancing user satisfaction.
-
----
